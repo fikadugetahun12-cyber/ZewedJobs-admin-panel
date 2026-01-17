@@ -1,0 +1,6 @@
+# Check if you have PHP
+php --version  # Should be PHP 7.4+
+
+# Required PHP extensions
+# - json (usually enabled by default)
+# - session (usually enabled by default)
