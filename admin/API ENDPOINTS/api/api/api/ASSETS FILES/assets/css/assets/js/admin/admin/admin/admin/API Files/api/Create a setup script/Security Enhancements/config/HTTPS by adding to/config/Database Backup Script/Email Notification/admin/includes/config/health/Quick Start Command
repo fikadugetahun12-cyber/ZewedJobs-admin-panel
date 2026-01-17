@@ -1,0 +1,8 @@
+# 1. Set permissions
+chmod 755 database logs
+
+# 2. Run setup
+php setup.php
+
+# 3. Access admin
+# Open browser to: http://localhost/zewedjobs-admin/admin/login.php
