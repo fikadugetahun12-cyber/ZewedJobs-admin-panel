@@ -1,0 +1,4 @@
+# Make sure directories are writable
+chmod 755 database/
+chmod 755 logs/
+chmod 644 database/*.json
