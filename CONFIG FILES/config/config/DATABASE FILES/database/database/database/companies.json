@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Corp",
+        "email": "contact@techcorp.com",
+        "phone": "+251911223344",
+        "website": "https://techcorp.com",
+        "location": "Addis Ababa",
+        "industry": "Technology",
+        "description": "Leading tech company in Ethiopia",
+        "logo": "techcorp.png",
+        "verified": true,
+        "jobs_posted": 5,
+        "member_since": "2023-06-01"
+    },
+    {
+        "id": 2,
+        "name": "Marketing Pro",
+        "email": "info@marketingpro.com",
+        "phone": "+251922334455",
+        "website": "https://marketingpro.com",
+        "location": "Remote",
+        "industry": "Marketing",
+        "description": "Digital marketing agency",
+        "logo": "marketingpro.png",
+        "verified": false,
+        "jobs_posted": 2,
+        "member_since": "2024-01-01"
+    }
+]
