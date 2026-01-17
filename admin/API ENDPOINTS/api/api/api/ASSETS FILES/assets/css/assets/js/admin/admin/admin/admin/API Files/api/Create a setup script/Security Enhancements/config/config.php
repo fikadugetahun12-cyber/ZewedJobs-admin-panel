@@ -1,0 +1,1 @@
+define('ADMIN_PASSWORD_HASH', password_hash('YOUR_NEW_PASSWORD', PASSWORD_DEFAULT));
