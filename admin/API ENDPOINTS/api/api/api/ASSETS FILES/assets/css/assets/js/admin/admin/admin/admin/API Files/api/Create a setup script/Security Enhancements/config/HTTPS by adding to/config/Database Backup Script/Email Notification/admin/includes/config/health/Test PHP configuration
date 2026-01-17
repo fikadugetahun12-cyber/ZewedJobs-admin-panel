@@ -1,0 +1,2 @@
+php -i | grep -i json
+php -i | grep -i session
