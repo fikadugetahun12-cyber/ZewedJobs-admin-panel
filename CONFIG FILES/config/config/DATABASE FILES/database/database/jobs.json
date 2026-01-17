@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "Senior Web Developer",
+        "company": "Tech Corp",
+        "location": "Addis Ababa",
+        "salary": "$60,000 - $80,000",
+        "type": "Full-time",
+        "category": "Technology",
+        "description": "We are looking for an experienced web developer...",
+        "requirements": ["PHP", "JavaScript", "MySQL", "Laravel"],
+        "posted_date": "2024-01-15",
+        "expiry_date": "2024-02-15",
+        "status": "active",
+        "applications": 15,
+        "views": 245
+    },
+    {
+        "id": 2,
+        "title": "Marketing Manager",
+        "company": "Marketing Pro",
+        "location": "Remote",
+        "salary": "$50,000 - $70,000",
+        "type": "Full-time",
+        "category": "Marketing",
+        "description": "Lead our marketing team...",
+        "posted_date": "2024-01-16",
+        "expiry_date": "2024-02-16",
+        "status": "active",
+        "applications": 8,
+        "views": 120
+    }
+]
